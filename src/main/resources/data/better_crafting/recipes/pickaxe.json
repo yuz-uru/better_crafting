@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "D": {
+      "item": "better_crafting:dirty_diamond"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "better_crafting:dirty_diamond_pickaxe"
+  }
+}

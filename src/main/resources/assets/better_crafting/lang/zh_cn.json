@@ -1,0 +1,14 @@
+{
+  "item.better_crafting.dirty_diamond": "不纯的钻石",
+  "item.better_crafting.dirty_diamond_sword": "不纯的钻石剑",
+  "item.better_crafting.dirty_diamond_pickaxe": "不纯的钻石镐",
+  "item.better_crafting.dirty_diamond_axe": "不纯的钻石斧",
+  "item.better_crafting.dirty_diamond_shovel": "不纯的钻石锹",
+  "item.better_crafting.dirty_diamond_hoe": "不纯的钻石锄",
+  "item.better_crafting.dirty_diamond_helmet": "不纯的钻石头盔",
+  "item.better_crafting.dirty_diamond_chestplate": "不纯的钻石胸甲",
+  "item.better_crafting.dirty_diamond_leggings": "不纯的钻石护腿",
+  "item.better_crafting.dirty_diamond_boots": "不纯的钻石靴子",
+  "creativetab.better_crafting.dirty_diamond_tab": "不纯的钻石",
+  "block.better_crafting.dirty_diamond_ore": "不纯的钻石原矿"
+}

@@ -1,0 +1,14 @@
+{
+  "item.better_crafting.dirty_diamond": "diamond(not enough)",
+  "item.better_crafting.dirty_diamond_sword": "Dirty Diamond Sword",
+  "item.better_crafting.dirty_diamond_pickaxe": "Dirty Diamond Pickaxe",
+  "item.better_crafting.dirty_diamond_axe": "Dirty Diamond Axe",
+  "item.better_crafting.dirty_diamond_shovel": "Dirty Diamond Shovel",
+  "item.better_crafting.dirty_diamond_hoe": "Dirty Diamond Hoe",
+  "item.better_crafting.dirty_diamond_helmet": "Dirty Diamond Helmet",
+  "item.better_crafting.dirty_diamond_chestplate": "Dirty Diamond Chestplate",
+  "item.better_crafting.dirty_diamond_leggings": "Dirty Diamond Leggings",
+  "item.better_crafting.dirty_diamond_boots": "Dirty Diamond Boots",
+  "creativetab.better_crafting.dirty_diamond_tab": "Better Crafting",
+  "block.better_crafting.dirty_diamond_ore": "ore of dirty diamond"
+}
