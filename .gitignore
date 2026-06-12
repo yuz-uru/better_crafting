@@ -7,6 +7,8 @@
 # Gradle build folder
 build
 
+gradle
+
 # IntelliJ
 out/
 .idea
@@ -19,6 +21,7 @@ hs_err_pid*
 
 # Common working directory
 run
+run-data
 
 # test
 test/
