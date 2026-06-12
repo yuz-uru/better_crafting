@@ -1,7 +1,6 @@
 package org.asuka.better_crafting.items;
 
 import net.minecraft.world.item.*;
-import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
@@ -52,25 +51,25 @@ public class ModItems {
 	
 	// ==================== 盔甲 ====================
 	public static final RegistryObject<Item> DIRTY_DIAMOND_HELMET = ITEMS.register("dirty_diamond_helmet",
-																				   () -> new DirtyDiamondArmorItom(
+																				   () -> new DirtyDiamondArmorItem(
 																						   ModArmorMaterial.DIRTY_DIAMOND,
 																						   ArmorItem.Type.HELMET,
 																						   new Item.Properties()));
 	
 	public static final RegistryObject<Item> DIRTY_DIAMOND_CHESTPLATE = ITEMS.register("dirty_diamond_chestplate",
-																					   () -> new DirtyDiamondArmorItom(
+																					   () -> new DirtyDiamondArmorItem(
 																							   ModArmorMaterial.DIRTY_DIAMOND,
 																							   ArmorItem.Type.CHESTPLATE,
 																							   new Item.Properties()));
 	
 	public static final RegistryObject<Item> DIRTY_DIAMOND_LEGGINGS = ITEMS.register("dirty_diamond_leggings",
-																					 () -> new DirtyDiamondArmorItom(
+																					 () -> new DirtyDiamondArmorItem(
 																							 ModArmorMaterial.DIRTY_DIAMOND,
 																							 ArmorItem.Type.LEGGINGS,
 																							 new Item.Properties()));
 	
 	public static final RegistryObject<Item> DIRTY_DIAMOND_BOOTS = ITEMS.register("dirty_diamond_boots",
-																				  () -> new DirtyDiamondArmorItom(
+																				  () -> new DirtyDiamondArmorItem(
 																						  ModArmorMaterial.DIRTY_DIAMOND,
 																						  ArmorItem.Type.BOOTS,
 																						  new Item.Properties()));
