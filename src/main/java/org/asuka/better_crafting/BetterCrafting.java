@@ -14,8 +14,8 @@ public class BetterCrafting {
 	public BetterCrafting (FMLJavaModLoadingContext context) {
 		IEventBus modEventBus = context.getModEventBus();
 		
+		ModCreativeTabs.register(modEventBus);
 		ModBlocks.register(modEventBus);
 		ModItems.register(modEventBus);
-		ModCreativeTabs.register(modEventBus);
 	}
 }
