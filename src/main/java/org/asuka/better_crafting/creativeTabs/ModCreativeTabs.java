@@ -1,4 +1,4 @@
-package org.asuka.better_crafting;
+package org.asuka.better_crafting.creativeTabs;
 
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
@@ -7,6 +7,7 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
+import org.asuka.better_crafting.BetterCrafting;
 import org.asuka.better_crafting.items.ModItems;
 
 public class ModCreativeTabs {
