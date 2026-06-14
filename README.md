@@ -6,6 +6,7 @@ This is a mod to make coal and sticks more useful.
 
 1. You can get diamonds from dirty diamonds witch is crafted from coal blocks.
 2. You can make tools and armors with dirty diamonds. They are the same to the iron ones.
+3. If you are born in desert, you can make oak planks with catuses.
 
 #### <span style="color:red">Dirty diamond ones have the same texture with real diamond ones, watch carefully!!</span> ####
 
